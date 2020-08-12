@@ -7,3 +7,5 @@ new feature 1
 
 new feature 2
 master 3
+
+stash 1
